@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1565252793 source:c:\users\gut3hc\desktop\fg config\fgconfig\sharedpointer\main.cpp
+	<memory>
+	<thread>
+	<chrono>
+	<mutex>
+	<map>
+	<iostream>
+

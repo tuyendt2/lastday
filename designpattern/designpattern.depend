@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573121291 source:c:\users\gut3hc\desktop\fg config\fgconfig\designpattern\main.cpp
+	<iostream>
+	"singleton.h"
+
+1573121306 c:\users\gut3hc\desktop\fg config\fgconfig\designpattern\singleton.h
+	<string>
+

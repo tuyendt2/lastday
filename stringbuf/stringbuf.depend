@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562910287 source:c:\users\gut3hc\desktop\fg config\fgconfig\stringbuf\main.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<map>
+

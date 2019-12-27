@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567072573 source:c:\users\gut3hc\desktop\fg config\fgconfig\hellotest\main.cpp
+	"A.h"
+
+1567072667 c:\users\gut3hc\desktop\fg config\fgconfig\hellotest\a.h
+
+1567072627 source:c:\users\gut3hc\desktop\fg config\fgconfig\hellotest\a.cpp
+	<iostream>
+	"A.h"
+

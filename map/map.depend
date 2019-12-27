@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1560918758 source:c:\users\gut3hc\desktop\fg config\fgconfig\map\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<iterator>
+	<map>
+	<cstdint>
+	<map>
+	<stdio.h>
+	<iostream>
+
